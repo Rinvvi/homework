@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\05.02\ConsoleApp1\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\user\Desktop\05.02\ConsoleApp1\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\user\Desktop\05.02\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\05.02\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\05.02\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\user\Desktop\05.02\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.pdb
